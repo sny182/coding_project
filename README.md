@@ -1,4 +1,4 @@
-# coding_project_ALTEN
+# coding_project
 
 This project presents the solution to 2 given tasks.
 
